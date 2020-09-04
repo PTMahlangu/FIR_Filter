@@ -1,1 +1,1 @@
-# FIR_Filter
+# Finite Impulse Response (FIR) filter 
